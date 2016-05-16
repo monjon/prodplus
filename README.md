@@ -1,5 +1,14 @@
 # Prodplus
 
+Prodplus est un logiciel de création de devis et facturation à destination des sociétés françaises pour l'instant.
+
+Les fonctionalités de Prodplus :
+- Gestion de prospects
+- Création de devis avec suivi
+- Tranformation en facture des devis
+- Création direct de factures
+- Génération PDF des devis et factures
+
 #MIT License
 
 Copyright (c) 2016
